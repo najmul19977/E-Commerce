@@ -1,0 +1,42 @@
+[
+    {
+        "id": "JKT001",
+        "name": "Leather Biker Jacket",
+        "description": "A classic leather biker jacket for a stylish and edgy look.",
+        "price": 149.99,
+        "colors": ["Black", "Brown", "Tan"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Genuine Leather",
+        "image": "https://i.ibb.co/SJ4X4z5/hudi-1.jpg"
+      },
+      {
+        "id": "JKT002",
+        "name": "Denim Jacket",
+        "description": "A versatile denim jacket for a casual and cool style.",
+        "price": 69.99,
+        "colors": ["Blue", "Black", "Gray"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Cotton Denim",
+        "image": "https://i.ibb.co/2ZXphjm/hudi-3.jpg"
+      },
+      {
+        "id": "JKT003",
+        "name": "Quilted Bomber Jacket",
+        "description": "A trendy quilted bomber jacket for a modern and comfortable fit.",
+        "price": 89.99,
+        "colors": ["Navy", "Olive", "Burgundy"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Polyester",
+        "image": "https://i.ibb.co/v3Cwq2J/hudi-2.jpg"
+      },
+      {
+        "id": "JKT004",
+        "name": "Water-Resistant Windbreaker",
+        "description": "A lightweight and water-resistant windbreaker for outdoor activities.",
+        "price": 79.99,
+        "colors": ["Black", "Blue", "Red"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Nylon",
+        "image": "https://i.ibb.co/SJ4X4z5/hudi-1.jpg"
+      }
+]

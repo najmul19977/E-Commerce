@@ -1,0 +1,270 @@
+[
+    {
+        "id": "H001",
+        "name": "Classic Pullover Hoodie",
+        "description": "A comfortable and warm pullover hoodie for casual wear.",
+        "price": 49.99,
+        "colors": ["Black", "Gray", "Navy", "Burgundy"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Cotton Blend",
+        "image": "https://i.ibb.co/SJ4X4z5/hudi-1.jpg"
+      },
+      {
+        "id": "H002",
+        "name": "Zip-up Hoodie",
+        "description": "A versatile zip-up hoodie with a front zipper for easy layering.",
+        "price": 54.99,
+        "colors": ["Charcoal", "Blue", "Olive", "Red"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Fleece",
+        "image": "https://i.ibb.co/v3Cwq2J/hudi-2.jpg"
+      },
+      {
+        "id": "H003",
+        "name": "Graphic Print Hoodie",
+        "description": "A stylish hoodie featuring unique graphic prints for a modern look.",
+        "price": 59.99,
+        "colors": ["Black", "White", "Gray"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Cotton Blend",
+        "image": "https://i.ibb.co/2ZXphjm/hudi-3.jpg"
+      },
+      {
+        "id": "H004",
+        "name": "Hooded Sweatshirt",
+        "description": "A classic hooded sweatshirt for everyday comfort and warmth.",
+        "price": 44.99,
+        "colors": ["Navy", "Green", "Brown"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Polyester Blend",
+        "image": "https://i.ibb.co/SJ4X4z5/hudi-1.jpg"
+      },
+      {
+        "id": "JKT001",
+        "name": "Leather Biker Jacket",
+        "description": "A classic leather biker jacket for a stylish and edgy look.",
+        "price": 149.99,
+        "colors": ["Black", "Brown", "Tan"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Genuine Leather",
+        "image": "https://i.ibb.co/SJ4X4z5/hudi-1.jpg"
+      },
+      {
+        "id": "JKT002",
+        "name": "Denim Jacket",
+        "description": "A versatile denim jacket for a casual and cool style.",
+        "price": 69.99,
+        "colors": ["Blue", "Black", "Gray"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Cotton Denim",
+        "image": "https://i.ibb.co/2ZXphjm/hudi-3.jpg"
+      },
+      {
+        "id": "JKT003",
+        "name": "Quilted Bomber Jacket",
+        "description": "A trendy quilted bomber jacket for a modern and comfortable fit.",
+        "price": 89.99,
+        "colors": ["Navy", "Olive", "Burgundy"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Polyester",
+        "image": "https://i.ibb.co/v3Cwq2J/hudi-2.jpg"
+      },
+      {
+        "id": "JKT004",
+        "name": "Water-Resistant Windbreaker",
+        "description": "A lightweight and water-resistant windbreaker for outdoor activities.",
+        "price": 79.99,
+        "colors": ["Black", "Blue", "Red"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Nylon",
+        "image": "https://i.ibb.co/SJ4X4z5/hudi-1.jpg"
+      },
+      {
+        "id": "TS001",
+        "name": "Classic Cotton T-shirt",
+        "description": "A comfortable and stylish cotton T-shirt for everyday wear.",
+        "price": 19.99,
+        "colors": ["White", "Black", "Gray", "Blue", "Red"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "100% Cotton",
+        "image": "https://i.ibb.co/LNY4Vhz/tshirt-1.jpg"
+      },
+      {
+        "id": "TS002",
+        "name": "Casual V-neck T-shirt",
+        "description": "A casual V-neck T-shirt for a relaxed and trendy look.",
+        "price": 24.99,
+        "colors": ["White", "Gray", "Navy", "Green"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Cotton Blend",
+        "image": "https://i.ibb.co/k23JxvR/tshirt-2.jpg"
+      },
+      {
+        "id": "TS003",
+        "name": "Graphic Print T-shirt",
+        "description": "A T-shirt featuring cool graphic prints for a modern style.",
+        "price": 29.99,
+        "colors": ["Black", "Charcoal", "Blue"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "100% Cotton",
+        "image": "https://i.ibb.co/g7CXn1C/tshirt-3.jpg"
+      },
+      {
+        "id": "TS004",
+        "name": "Sporty Performance Tee",
+        "description": "A moisture-wicking T-shirt for active lifestyles.",
+        "price": 34.99,
+        "colors": ["Gray", "Blue", "Green", "Orange"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Polyester Blend",
+        "image": "https://i.ibb.co/j4Q1XVh/tshirt-4.jpg"
+      },
+      {
+        "id": 1,
+        "brand": "Nike",
+        "model": "Air Max 270",
+        "color": "Black/White",
+        "price": 120.00,
+        "image": "https://i.ibb.co/PgzXS92/shoe-1.jpg"
+      },
+      {
+        "id": 2,
+        "brand": "Adidas",
+        "model": "Ultra Boost",
+        "color": "White/Black",
+        "price": 150.00,
+        "image": "https://i.ibb.co/XZ8K19t/shoe-2.jpg"
+      },
+      {
+        "id": 3,
+        "brand": "Puma",
+        "model": "RS-X",
+        "color": "Red/Blue",
+        "price": 110.00,
+        "image": "https://i.ibb.co/tLvy200/shoe-3.jpg"
+      },
+      {
+        "id": 4,
+        "brand": "New Balance",
+        "model": "990v5",
+        "color": "Grey/White",
+        "price": 175.00,
+        "image": "https://i.ibb.co/PgzXS92/shoe-1.jpg"
+      },
+      {
+        "id": "P001",
+        "name": "Slim Fit Jeans",
+        "description": "Classic slim fit jeans for a stylish and modern look.",
+        "price": 39.99,
+        "colors": ["Blue", "Black", "Gray"],
+        "sizes": ["28x30", "30x32", "32x34", "34x36"],
+        "material": "Denim",
+        "image": "https://i.ibb.co/j4Q1XVh/tshirt-4.jpg"
+      },
+      {
+        "id": "P002",
+        "name": "Chino Pants",
+        "description": "Versatile chino pants suitable for both casual and business occasions.",
+        "price": 29.99,
+        "colors": ["Khaki", "Navy", "Beige"],
+        "sizes": ["28x30", "30x32", "32x34", "34x36"],
+        "material": "Cotton Blend",
+        "image": "https://i.ibb.co/g7CXn1C/tshirt-3.jpg"
+      },
+      {
+        "id": "P003",
+        "name": "Cargo Joggers",
+        "description": "Comfortable cargo joggers with multiple pockets for a casual and functional style.",
+        "price": 45.99,
+        "colors": ["Olive", "Black", "Camouflage"],
+        "sizes": ["28x30", "30x32", "32x34", "34x36"],
+        "material": "Cotton",
+        "image": "https://i.ibb.co/k23JxvR/tshirt-2.jpg"
+      },
+      {
+        "id": "P004",
+        "name": "Tailored Dress Pants",
+        "description": "Elegant tailored dress pants for formal occasions.",
+        "price": 59.99,
+        "colors": ["Black", "Navy", "Charcoal"],
+        "sizes": ["28x30", "30x32", "32x34", "34x36"],
+        "material": "Wool Blend",
+        "image": "https://i.ibb.co/LNY4Vhz/tshirt-1.jpg"
+      },
+      {
+        "id": "OW001",
+        "name": "Winter Parka",
+        "description": "A warm and insulated parka for cold winter days.",
+        "price": 89.99,
+        "colors": ["Black", "Navy", "Olive", "Burgundy"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Water-resistant Polyester",
+        "image": "https://i.ibb.co/SJ4X4z5/hudi-1.jpg"
+      },
+      {
+        "id": "OW002",
+        "name": "Quilted Puffer Jacket",
+        "description": "A stylish and lightweight puffer jacket for a trendy winter look.",
+        "price": 79.99,
+        "colors": ["Gray", "Blue", "Red", "White"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Down Fill",
+        "image": "https://i.ibb.co/2ZXphjm/hudi-3.jpg"
+      },
+      {
+        "id": "OW003",
+        "name": "Waterproof Shell Jacket",
+        "description": "A versatile waterproof jacket for outdoor activities.",
+        "price": 99.99,
+        "colors": ["Black", "Blue", "Green"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Nylon Shell",
+        "image": "https://i.ibb.co/j4Q1XVh/tshirt-4.jpg"
+      },
+      {
+        "id": "OW004",
+        "name": "Trench Coat",
+        "description": "A classic trench coat for a timeless and sophisticated style.",
+        "price": 129.99,
+        "colors": ["Khaki", "Navy", "Camel"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Cotton Blend",
+        "image": "https://i.ibb.co/g7CXn1C/tshirt-3.jpg"
+      },
+      {
+        "id": "ACC001",
+        "name": "Classic Aviator Sunglasses",
+        "description": "Timeless aviator sunglasses with UV protection.",
+        "price": 29.99,
+        "colors": ["Gold Frame / Brown Lens", "Silver Frame / Gray Lens", "Black Frame / Green Lens"],
+        "material": "Metal Frame, Glass Lens",
+        "image": "https://i.ibb.co/vxc5sJk/assosery-1.jpg"
+      },
+      {
+        "id": "ACC002",
+        "name": "Leather Bifold Wallet",
+        "description": "A sleek leather bifold wallet with multiple card slots and a coin pocket.",
+        "price": 39.99,
+        "colors": ["Black", "Brown", "Tan"],
+        "material": "Genuine Leather",
+        "image": "https://i.ibb.co/wQwW7yT/assosery-2.jpg"
+      },
+      {
+        "id": "ACC003",
+        "name": "Beanie Hat",
+        "description": "A cozy knit beanie hat to keep you warm in colder weather.",
+        "price": 19.99,
+        "colors": ["Gray", "Navy", "Burgundy"],
+        "material": "Acrylic",
+        "image": "https://i.ibb.co/vxc5sJk/assosery-1.jpg"
+      },
+      {
+        "id": "ACC004",
+        "name": "Leather Belt",
+        "description": "A classic leather belt with a polished buckle.",
+        "price": 34.99,
+        "colors": ["Black", "Brown", "Cognac"],
+        "material": "Genuine Leather",
+        "image": "https://i.ibb.co/wQwW7yT/assosery-2.jpg"
+      }
+]

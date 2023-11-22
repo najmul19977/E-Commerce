@@ -1,0 +1,42 @@
+[
+    {
+        "id": "P001",
+        "name": "Slim Fit Jeans",
+        "description": "Classic slim fit jeans for a stylish and modern look.",
+        "price": 39.99,
+        "colors": ["Blue", "Black", "Gray"],
+        "sizes": ["28x30", "30x32", "32x34", "34x36"],
+        "material": "Denim",
+        "image": "https://i.ibb.co/j4Q1XVh/tshirt-4.jpg"
+      },
+      {
+        "id": "P002",
+        "name": "Chino Pants",
+        "description": "Versatile chino pants suitable for both casual and business occasions.",
+        "price": 29.99,
+        "colors": ["Khaki", "Navy", "Beige"],
+        "sizes": ["28x30", "30x32", "32x34", "34x36"],
+        "material": "Cotton Blend",
+        "image": "https://i.ibb.co/g7CXn1C/tshirt-3.jpg"
+      },
+      {
+        "id": "P003",
+        "name": "Cargo Joggers",
+        "description": "Comfortable cargo joggers with multiple pockets for a casual and functional style.",
+        "price": 45.99,
+        "colors": ["Olive", "Black", "Camouflage"],
+        "sizes": ["28x30", "30x32", "32x34", "34x36"],
+        "material": "Cotton",
+        "image": "https://i.ibb.co/k23JxvR/tshirt-2.jpg"
+      },
+      {
+        "id": "P004",
+        "name": "Tailored Dress Pants",
+        "description": "Elegant tailored dress pants for formal occasions.",
+        "price": 59.99,
+        "colors": ["Black", "Navy", "Charcoal"],
+        "sizes": ["28x30", "30x32", "32x34", "34x36"],
+        "material": "Wool Blend",
+        "image": "https://i.ibb.co/LNY4Vhz/tshirt-1.jpg"
+      }
+]

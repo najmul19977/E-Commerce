@@ -1,0 +1,42 @@
+[
+    {
+        "id": "H001",
+        "name": "Classic Pullover Hoodie",
+        "description": "A comfortable and warm pullover hoodie for casual wear.",
+        "price": 49.99,
+        "colors": ["Black", "Gray", "Navy", "Burgundy"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Cotton Blend",
+        "image": "https://i.ibb.co/SJ4X4z5/hudi-1.jpg"
+      },
+      {
+        "id": "H002",
+        "name": "Zip-up Hoodie",
+        "description": "A versatile zip-up hoodie with a front zipper for easy layering.",
+        "price": 54.99,
+        "colors": ["Charcoal", "Blue", "Olive", "Red"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Fleece",
+        "image": "https://i.ibb.co/v3Cwq2J/hudi-2.jpg"
+      },
+      {
+        "id": "H003",
+        "name": "Graphic Print Hoodie",
+        "description": "A stylish hoodie featuring unique graphic prints for a modern look.",
+        "price": 59.99,
+        "colors": ["Black", "White", "Gray"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Cotton Blend",
+        "image": "https://i.ibb.co/2ZXphjm/hudi-3.jpg"
+      },
+      {
+        "id": "H004",
+        "name": "Hooded Sweatshirt",
+        "description": "A classic hooded sweatshirt for everyday comfort and warmth.",
+        "price": 44.99,
+        "colors": ["Navy", "Green", "Brown"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Polyester Blend",
+        "image": "https://i.ibb.co/SJ4X4z5/hudi-1.jpg"
+      }
+]

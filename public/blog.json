@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to JSON",
+      "author": "John Doe",
+      "date": "29 Agu 2023",
+      "content": "JSON (JavaScript Object Notation) is a lightweight data-interchange format...",
+      "image": "https://i.ibb.co/NYD2NFp/blog-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Web Development Trends in 2023",
+      "author": "Jane Smith",
+      "date": "25 Agu 2021",
+      "content": "As we step into the new year, let's explore the emerging trends in web development...",
+      "image": "https://i.ibb.co/f9DPKK1/blog-2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tips for Effective Time Management",
+      "author": "Alice Johnson",
+      "date": "25 Agu 2021",
+      "content": "Managing your time effectively is crucial for personal and professional success...",
+      "image": "https://i.ibb.co/Bs1ML1B/blog-3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Future of Artificial Intelligence",
+      "author": "Robert Anderson",
+      "date": "21 Agu 2021",
+      "content": "Artificial Intelligence is reshaping industries and influencing our daily lives...",
+      "image": "https://i.ibb.co/NYD2NFp/blog-1.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Exploring Quantum Computing",
+      "author": "Elena Rodriguez",
+      "date": "22 Agu 2022",
+      "content": "Quantum computing has the potential to revolutionize the field of computing...",
+      "image": "https://i.ibb.co/f9DPKK1/blog-2.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Healthy Eating Habits for a Better Lifestyle",
+      "author": "David Brown",
+      "date": "27 Agu 2020",
+      "content": "Eating a balanced diet is essential for maintaining good health and well-being...",
+      "image": "https://i.ibb.co/Bs1ML1B/blog-3.jpg"
+    }
+  ]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "ACC001",
+        "name": "Classic Aviator Sunglasses",
+        "description": "Timeless aviator sunglasses with UV protection.",
+        "price": 29.99,
+        "colors": ["Gold Frame / Brown Lens", "Silver Frame / Gray Lens", "Black Frame / Green Lens"],
+        "material": "Metal Frame, Glass Lens",
+        "image": "https://i.ibb.co/vxc5sJk/assosery-1.jpg"
+      },
+      {
+        "id": "ACC002",
+        "name": "Leather Bifold Wallet",
+        "description": "A sleek leather bifold wallet with multiple card slots and a coin pocket.",
+        "price": 39.99,
+        "colors": ["Black", "Brown", "Tan"],
+        "material": "Genuine Leather",
+        "image": "https://i.ibb.co/wQwW7yT/assosery-2.jpg"
+      },
+      {
+        "id": "ACC003",
+        "name": "Beanie Hat",
+        "description": "A cozy knit beanie hat to keep you warm in colder weather.",
+        "price": 19.99,
+        "colors": ["Gray", "Navy", "Burgundy"],
+        "material": "Acrylic",
+        "image": "https://i.ibb.co/vxc5sJk/assosery-1.jpg"
+      },
+      {
+        "id": "ACC004",
+        "name": "Leather Belt",
+        "description": "A classic leather belt with a polished buckle.",
+        "price": 34.99,
+        "colors": ["Black", "Brown", "Cognac"],
+        "material": "Genuine Leather",
+        "image": "https://i.ibb.co/wQwW7yT/assosery-2.jpg"
+      }
+]

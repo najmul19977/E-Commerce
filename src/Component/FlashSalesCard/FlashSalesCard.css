@@ -1,0 +1,10 @@
+.discound{
+    border: 1px solid red;
+    border-radius: 20px 5px;
+}
+.zoom{
+    transition: transform .2s;
+}
+.zoom:hover{
+    transform: scale(0.9);
+}

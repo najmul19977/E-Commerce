@@ -1,0 +1,42 @@
+[
+    {
+        "id": "TS001",
+        "name": "Classic Cotton T-shirt",
+        "description": "A comfortable and stylish cotton T-shirt for everyday wear.",
+        "price": 19.99,
+        "colors": ["White", "Black", "Gray", "Blue", "Red"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "100% Cotton",
+        "image": "https://i.ibb.co/LNY4Vhz/tshirt-1.jpg"
+      },
+      {
+        "id": "TS002",
+        "name": "Casual V-neck T-shirt",
+        "description": "A casual V-neck T-shirt for a relaxed and trendy look.",
+        "price": 24.99,
+        "colors": ["White", "Gray", "Navy", "Green"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Cotton Blend",
+        "image": "https://i.ibb.co/k23JxvR/tshirt-2.jpg"
+      },
+      {
+        "id": "TS003",
+        "name": "Graphic Print T-shirt",
+        "description": "A T-shirt featuring cool graphic prints for a modern style.",
+        "price": 29.99,
+        "colors": ["Black", "Charcoal", "Blue"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "100% Cotton",
+        "image": "https://i.ibb.co/g7CXn1C/tshirt-3.jpg"
+      },
+      {
+        "id": "TS004",
+        "name": "Sporty Performance Tee",
+        "description": "A moisture-wicking T-shirt for active lifestyles.",
+        "price": 34.99,
+        "colors": ["Gray", "Blue", "Green", "Orange"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Polyester Blend",
+        "image": "https://i.ibb.co/j4Q1XVh/tshirt-4.jpg"
+      }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "OW001",
+        "name": "Winter Parka",
+        "description": "A warm and insulated parka for cold winter days.",
+        "price": 89.99,
+        "colors": ["Black", "Navy", "Olive", "Burgundy"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Water-resistant Polyester",
+        "image": "https://i.ibb.co/SJ4X4z5/hudi-1.jpg"
+      },
+      {
+        "id": "OW002",
+        "name": "Quilted Puffer Jacket",
+        "description": "A stylish and lightweight puffer jacket for a trendy winter look.",
+        "price": 79.99,
+        "colors": ["Gray", "Blue", "Red", "White"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Down Fill",
+        "image": "https://i.ibb.co/2ZXphjm/hudi-3.jpg"
+      },
+      {
+        "id": "OW003",
+        "name": "Waterproof Shell Jacket",
+        "description": "A versatile waterproof jacket for outdoor activities.",
+        "price": 99.99,
+        "colors": ["Black", "Blue", "Green"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Nylon Shell",
+        "image": "https://i.ibb.co/j4Q1XVh/tshirt-4.jpg"
+      },
+      {
+        "id": "OW004",
+        "name": "Trench Coat",
+        "description": "A classic trench coat for a timeless and sophisticated style.",
+        "price": 129.99,
+        "colors": ["Khaki", "Navy", "Camel"],
+        "sizes": ["S", "M", "L", "XL"],
+        "material": "Cotton Blend",
+        "image": "https://i.ibb.co/g7CXn1C/tshirt-3.jpg"
+      }
+]
